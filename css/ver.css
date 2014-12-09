@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(210,210,250);
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    background-color: rgb(160,160,250);
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+}
+/* header */
+#header {
+    height:100px;
+    background-color: white;
+}
+#nombre1{
+    margin-top:40px;
+    margin-right: 200px;
+    float: right;
+}
+#derecha{
+    margin-right: 0;
+    margin-top: -104px;
+    float: right;
+}
+#foto{
+    width: 350px;
+    height: 175px;
+}
+#izquierda{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: white;
+}
+#centrar{
+    padding-top: 80px;
+    margin: 0 auto;
+    width: 240px;
+}
+input{
+    margin-bottom: 20px;
+}

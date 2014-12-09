@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(210,210,250);
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    background-color: rgb(160,160,250);
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+}
+/* header */
+#header {
+    height:100px;
+    background-color: white;
+}
+#nombre{
+    margin-top:40px;
+    margin-right: 200px;
+    float: right;
+}
+#derecha{
+    margin-right: 0;
+    margin-top: -104px;
+    float: right;
+}
+#foto{
+    width: 350px;
+    height: 175px;
+}
+#enlaces {
+    text-align: center;
+    margin: 0 auto;
+    width:200px;
+}
+#enlace1{
+    padding-top: 20px;
+    height: 40px;
+    background-color: white;
+    margin-top: 50px;
+}
+#enlace2{
+    padding-top: 20px;
+    height: 40px;
+    background-color: white;
+    margin-top: 50px;
+}
+#enlace3{
+    padding-top: 20px;
+    height: 40px;
+    background-color: white;
+    margin-top: 50px;
+}
